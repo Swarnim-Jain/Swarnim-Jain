@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17646
-Fork on GitHub5158
 <h1 align="center">Hi 👋, I'm Swarnim Jain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
