@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnim-jain&label=Profile%20views&color=0e75b6&style=flat" alt="swarnim-jain" /> </p>
 
-- 🔭 I’m currently working on **Mischief Managed 🪄**
-
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **swarnimjain21@gmail.com**
